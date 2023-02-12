@@ -1,6 +1,6 @@
 ---
 title: DrSalgado
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: .
 image: img/fo.jpg
 blurb:
   heading: Why Kaldi?
